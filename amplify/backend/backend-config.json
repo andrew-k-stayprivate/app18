@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"app18b1a17498": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
