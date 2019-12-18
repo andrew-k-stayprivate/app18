@@ -1,0 +1,15 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-app18-env-124137-authRole",
+            "UnauthRoleArn": "arn:aws:iam::387374700137:role/amplify-app18-env-124137-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::387374700137:role/amplify-app18-env-124137-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-app18-env-124137-deployment",
+            "UnauthRoleName": "amplify-app18-env-124137-unauthRole",
+            "StackName": "amplify-app18-env-124137",
+            "StackId": "arn:aws:cloudformation:eu-west-1:387374700137:stack/amplify-app18-env-124137/bc064ca0-2193-11ea-be83-06ebe7208a7c",
+            "AmplifyAppId": "d26j6u4ucwp8mz"
+        }
+    }
+}
